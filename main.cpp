@@ -11,7 +11,7 @@
 
 int main(int argc, char *argv[])
 {
-    int exitCode = 0;
+    int exitCode = 0; // exit
 
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
     QApplication app(argc, argv);
