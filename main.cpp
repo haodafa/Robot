@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
     QApplication app(argc, argv);
 
-    //// 启动动画
+    // 启动动画
     QSplashScreen* splash = new QSplashScreen;
     splash->setPixmap(QPixmap(":/Item/Robott.png"));
     splash->show();
