@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>LoginWidget.qml</file>
+        <file>BaseWidget/RadiusImage.qml</file>
+        <file>BaseWidget/RCComboBox.qml</file>
+        <file>BaseWidget/RCIconButton.qml</file>
+        <file>BaseWidget/RCTextField.qml</file>
+        <file>BaseWidget/qmldir</file>
+        <file>BaseWidget/RCCheckBox.qml</file>
+        <file>BaseWidget/RCButton.qml</file>
+        <file>BaseWidget/RCBusyIndicatorType.qml</file>
+        <file>BaseWidget/RCWaitingDialog.qml</file>
+        <file>MainWidget.qml</file>
+        <file>IndependentWidget/LeftFunWidget.qml</file>
+        <file>IndependentWidget/qmldir</file>
+        <file>WorkWidget/qmldir</file>
+        <file>WorkWidget/BaseInfoWidget.qml</file>
+        <file>BaseWidget/RCTableView.qml</file>
+        <file>BaseWidget/RCTableViewColumn.qml</file>
+        <file>BaseWidget/RCSearchWidget.qml</file>
+        <file>IndependentWidget/MessageBox.qml</file>
+        <file>IndependentWidget/NewUserDialog.qml</file>
+        <file>IndependentWidget/AutoVanishBox.qml</file>
+        <file>WorkWidget/UserManagement.qml</file>
+        <file>BaseWidget/RCToolTipText.qml</file>
+        <file>IndependentWidget/WidgetMenu.qml</file>
+        <file>BaseWidget/RCMenuDelegate.qml</file>
+        <file>GroupWidget/FactDataWidget.qml</file>
+        <file>GroupWidget/qmldir</file>
+    </qresource>
+</RCC>

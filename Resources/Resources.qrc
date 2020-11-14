@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Item">
+        <file>RobotControl.ico</file>
+        <file>MainWidget_1.jpg</file>
+        <file>LoginWidget.jpg</file>
+        <file>cbbDownBtn.png</file>
+        <file>cbbUpBtn.png</file>
+        <file>Checked.png</file>
+        <file>unChecked.png</file>
+        <file>spinner.png</file>
+        <file>Robott.png</file>
+        <file>Robot.png</file>
+        <file>searchBtn.png</file>
+        <file>IconTips.png</file>
+    </qresource>
+</RCC>

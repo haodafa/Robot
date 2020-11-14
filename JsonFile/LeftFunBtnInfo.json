@@ -1,0 +1,50 @@
+﻿[
+{
+    "name":             "基本信息",
+    "id":               "BaseInfo",
+    "visible":          true,
+    "qmlFilePath":      "qrc:/qml/WorkWidget/BaseInfoWidget.qml"
+},
+{
+    "name":             "监测点实况",
+    "id":               "MonitorPointScene",
+    "visible":          true,
+    "qmlFilePath":      ""
+},
+{
+    "name":             "数据中心",
+    "id":               "DataCentre",
+    "visible":          true,
+    "qmlFilePath":      ""
+},
+{
+    "name":             "地图编辑",
+    "id":               "MapManage",
+    "visible":          true,
+    "qmlFilePath":      ""
+},
+{
+    "name":             "任务管理",
+    "id":               "TaskManage",
+    "visible":          true,
+    "qmlFilePath":      ""
+},
+{
+    "name":             "用户管理",
+    "id":               "UserManage",
+    "visible":          true,
+    "qmlFilePath":      "qrc:/qml/WorkWidget/UserManagement.qml"
+},
+{
+    "name":             "机器人管理",
+    "id":               "RobotManage",
+    "visible":          true,
+    "qmlFilePath":      ""
+},
+{
+    "name":             "基本设置",
+    "id":               "BaseSet",
+    "visible":          true,
+    "qmlFilePath":      ""
+}
+]

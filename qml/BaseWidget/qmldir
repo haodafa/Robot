@@ -1,0 +1,15 @@
+﻿module BaseWidget
+
+RadiusImage             1.0             RadiusImage.qml
+RCIconButton            1.0             RCIconButton.qml
+RCComboBox              1.0             RCComboBox.qml
+RCTextField             1.0             RCTextField.qml
+RCCheckBox              1.0             RCCheckBox.qml
+RCButton                1.0             RCButton.qml
+RCBusyIndicatorType     1.0             RCBusyIndicatorType.qml
+RCWaitingDialog         1.0             RCWaitingDialog.qml
+RCTableView             1.0             RCTableView.qml
+RCTableViewColumn       1.0             RCTableViewColumn.qml
+RCSearchWidget          1.0             RCSearchWidget.qml
+RCToolTipText           1.0             RCToolTipText.qml
+RCMenuDelegate          1.0             RCMenuDelegate.qml

@@ -1,0 +1,37 @@
+﻿[
+{
+    "name":             "温度",
+    "id":               "temperature",
+    "type":             "Float",
+    "unit":             "℃",
+    "value":            "0.0"
+},
+{
+    "name":             "湿度",
+    "id":               "temperature",
+    "type":             "float",
+    "unit":             "℃",
+    "value":            "0.0"
+},
+{
+    "name":             "温度",
+    "id":               "temperature",
+    "type":             "float",
+    "unit":             "℃",
+    "value":            "0.0"
+},
+{
+    "name":             "温度",
+    "id":               "temperature",
+    "type":             "float",
+    "unit":             "℃",
+    "value":            "0.0"
+},
+{
+    "name":             "温度",
+    "id":               "temperature",
+    "type":             "float",
+    "unit":             "℃",
+    "value":            "0.0"
+}
+]

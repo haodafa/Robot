@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LeftFunBtnInfo.json</file>
+        <file>BaseFactDataInfo.json</file>
+    </qresource>
+</RCC>

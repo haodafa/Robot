@@ -1,0 +1,4 @@
+﻿module WorkWidget
+
+BaseInfoWidget              1.0             BaseInfoWidget.qml
+UserManagement              1.0             UserManagement.qml

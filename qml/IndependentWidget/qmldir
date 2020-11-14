@@ -1,0 +1,7 @@
+﻿module IndependentWidget
+
+LeftFunWidget             1.0             LeftFunWidget.qml
+MessageBox                1.0             MessageBox.qml
+NewUserDialog               1.0             NewUserDialog.qml
+AutoVanishBox               1.0             AutoVanishBox.qml
+WidgetMenu                  1.0             WidgetMenu.qml
